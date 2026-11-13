@@ -6,6 +6,8 @@
 
 **库库 AI（百度文库 GenFlowPro）现行 `kukuai30` 每日签到单文件脚本，支持多账号、青龙与 GitHub Actions。**
 
+> 当前版本：**v1.4.0**（2026-11-07） · 最新更新：新增 userreport 会话身份与 bdstoken 登录态校验
+
 [简体中文](README.md) · [English](docs/README.en.md) · [繁體中文](docs/README.zh-Hant.md) · [日本語](docs/README.ja.md) · [한국어](docs/README.ko.md) · [Português (BR)](docs/README.pt-BR.md)
 
 <img src="https://img.shields.io/github/v/release/L0NE-6/KukuAI-Daily?style=for-the-badge&label=Release&color=2ea44f&logo=github" />
